@@ -33,3 +33,5 @@ You can also just go to your library and right click the programming exercise yo
 01 -  getting you familiar with using Jupyter Notebooks
 
 02 - Simple Linear Regression: making our chocolate-bar customers happier
+
+03 - Multilinear Regression: finding the chocolate bar that best suits customers, taking into account the cocoa content, size, and price.
