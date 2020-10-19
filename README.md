@@ -37,3 +37,5 @@ You can also just go to your library and right click the programming exercise yo
 03 - Multilinear Regression: finding the chocolate bar that best suits customers, taking into account the cocoa content, size, and price.
 
 04 - Polynomial Regression: Analyzing internet traffic over the course of the day.
+
+05 - Logistic Regression: Predicting the Outcome of a Final Football Match.
