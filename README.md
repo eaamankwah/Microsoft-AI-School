@@ -39,3 +39,5 @@ You can also just go to your library and right click the programming exercise yo
 04 - Polynomial Regression: Analyzing internet traffic over the course of the day.
 
 05 - Logistic Regression: Predicting the Outcome of a Final Football Match.
+
+06 - Support Vector Machine: Categorizing which type of tree a new specimen belongs to.
