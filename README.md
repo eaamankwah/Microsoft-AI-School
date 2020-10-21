@@ -41,3 +41,5 @@ You can also just go to your library and right click the programming exercise yo
 05 - Logistic Regression: Predicting the Outcome of a Final Football Match.
 
 06 - Support Vector Machine: Categorizing which type of tree a new specimen belongs to.
+
+07 - Advanced Support Vector Machine: Looking at __prions__ - misfolded proteins that are associated with several fatal neurodegenerative diseases (kind of like Daleks, if you have seen Doctor Who). Looking at examples of proteins mass and weight, we will build a predictive model to detect prions in blood samples.
