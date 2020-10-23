@@ -45,3 +45,5 @@ You can also just go to your library and right click the programming exercise yo
 07 - Advanced Support Vector Machine: Looking at __prions__ - misfolded proteins that are associated with several fatal neurodegenerative diseases (kind of like Daleks, if you have seen Doctor Who). Looking at examples of proteins mass and weight, we will build a predictive model to detect prions in blood samples.
 
 08 - Neural Network Introduction: classify the breeds of the dogs based on these features.
+
+09 -  Advanced Neural Network: Using the same dog dataset as in exercise 8, building on what we learnt before and trying different parameters for a network to try and improve performance.
