@@ -51,3 +51,5 @@ You can also just go to your library and right click the programming exercise yo
 10 - Convolutional Neural Network : Training a CNN to recognise handwritten digits, using the MNIST digit dataset
 
 11 - Recurrent Neural Network: Implementing a LSTM RNN to generate new characters after learning from a large sample of text.
+
+12 - Using k-means clustering to categorise a few different datasets.
